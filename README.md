@@ -17,6 +17,10 @@ Files
 Code Book
 ---------
 
+The output file (averages.txt) represents a summary of all subject/activity pairs, and their averages for various measurements which were taken. There are Gyroscope and Accelerometer readings with various levels of integration/derivation, e.g. for calculating Jerk, Acceleration, mean, standard deviation. Each of these readings has been averaged and put into the output file.
+
+For example, Subject 3 has his WALKING activity summarized for the average of all his walking data.
+
 The data is in a file called averages.txt with the following columns:
 
     ## 1 Activity 
